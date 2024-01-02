@@ -1,0 +1,12 @@
+{ "author": {
+  "name": "Guido Abekl Sanchez", "email":"sanchezguidorl@gmail.com"
+},
+"project":{
+"name": "blog-mbile-legends"
+},
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3"
+  }
+}
